@@ -178,13 +178,13 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Won the 1X World Model Challenge
-    url: https://www.1x.tech/
-    date: '2025-10-10'
-    awarder: 1X
-    icon: hero/trophy
-    summary: |
-      Won both tracks of the 1X World Model Challenge and presented findings at the ICCV 2025 workshop [Learning to See: Advancing Spatial Understanding for Embodied Intelligence.](https://opendrivelab.com/iccv2025/workshop/)
+  #- title: Won the 1X World Model Challenge
+  #  url: https://www.1x.tech/
+  #  date: '2025-10-10'
+  #  awarder: 1X
+  #  icon: hero/trophy
+  #  summary: |
+  #    Won both tracks of the 1X World Model Challenge and presented findings at the ICCV 2025 workshop [Learning to See: Advancing Spatial Understanding for Embodied Intelligence.](https://opendrivelab.com/iccv2025/workshop/)
   - title: Awarded 300k GPU Hours
     url: https://www.lumi-supercomputer.eu/
     date: '2024-06-01'

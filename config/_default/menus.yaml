@@ -13,15 +13,17 @@ main:
   - name: Talks
     url: /talks
     weight: 12
+  - name: Posts
+    url: posts/
+    weight: 20
   - name: Projects
     url: projects/
     weight: 30
   - name: CV
     url: uploads/curriculum-vitae.pdf
     weight: 60
-  # - name: <i class="fa fa-folder" aria-hidden="true"></i> Notes
   - name: Notes
-    url: 'notes'
+    url: notes/
     weight: 70
   - name: Experience
     url: experience/

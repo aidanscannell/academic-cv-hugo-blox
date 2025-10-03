@@ -1,0 +1,8 @@
+{{- $shortname := .Site.Params.features.comment.disqus.shortname | default .Site.Config.Services.Disqus.Shortname -}}
+{{- if $shortname -}}
+  {{- if hugo.IsServer -}}
+    <!-- Disqus disabled on hugo server -->
+  {{- else -}}
+    {{ template "_internal/disqus.html" . }}
+  {{- end -}}
+{{- end -}}

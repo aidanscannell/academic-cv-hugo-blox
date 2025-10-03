@@ -64,9 +64,6 @@ features:
     enable: false
   comment:
     # Choose a provider: giscus, disqus, commento, or '' to disable commenting
-    provider: 'disqus'
+    provider: disqus
     disqus:
-      # Paste the shortname from your Disqus dashboard.
       shortname: 'aidanscannell'
-      # Show comment count in page header? (true/false)
-      show_count: true

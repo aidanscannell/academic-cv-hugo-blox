@@ -58,3 +58,6 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+services:
+  disqus:
+    shortname: aidanscannell

@@ -1,0 +1,47 @@
+/* ========= Palette shims ========= */
+:root{
+  --hb-primary:       var(--color-primary-600, var(--color-primary, var(--primary, #1976d2)));
+  --hb-primary-hover: var(--color-primary-700, var(--primary, #1557a0));
+}
+
+/* ========= Global links ========= */
+a { color: var(--hb-primary); }
+a:hover,
+a:focus { color: var(--hb-primary-hover); }
+a:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
+
+/* ========= Markdown (Typography plugin) ========= */
+.prose { --tw-prose-links: var(--hb-primary); }
+.prose a:hover { color: var(--hb-primary-hover); text-decoration-color: currentColor; }
+
+/* ========= Attachments ========= */
+/* 1) The element itself is the link/button */
+a.hb-attachment-link,
+button.hb-attachment-link {
+  color: var(--hb-primary);
+}
+a.hb-attachment-link:hover,
+a.hb-attachment-link:focus,
+button.hb-attachment-link:hover,
+button.hb-attachment-link:focus {
+  color: var(--hb-primary-hover);
+}
+
+/* 2) Wrapper with inner <a> */
+.hb-attachment-link a,
+.hb-attachment-link a:link,
+.hb-attachment-link a:visited {
+  color: var(--hb-primary);
+}
+.hb-attachment-link a:hover,
+.hb-attachment-link a:focus {
+  color: var(--hb-primary-hover);
+}
+
+/* 3) Make icons/labels inherit the link color */
+.hb-attachment-link svg,
+.hb-attachment-link .label,
+a.hb-attachment-link svg {
+  color: var(--hb-primary);
+  fill: var(--hb-primary);
+}

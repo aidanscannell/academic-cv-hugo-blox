@@ -59,23 +59,22 @@ interests:
   - Robotics
 
 
-education:
-  - area: PhD Robotics & Autonomous Systems
-    institution: University of Bristol, UK
-    date_start: 2017-09-01
-    date_end: 2022-06-30
-    summary: |
-      Thesis on _Bayesian Learning for Control in Multimodal Dynamical Systems_. Supervised by Prof. Arthur Richards & Prof. Carl Henrik Ek.
-    button:
-      text: 'Read Thesis'
-      url: 'https://github.com/aidanscannell/phd-thesis'
-
-  - area: MEng Mechanical Engineering
-    institution: University of Bristol, UK
-    date_start: 2012-09-01
-    date_end: 2016-06-30
-    summary: |
-     First Class Honours
+#education:
+#  - area: PhD Robotics & Autonomous Systems
+#    institution: University of Bristol, UK
+#    date_start: 2017-09-01
+#    date_end: 2022-06-30
+#    summary: |
+#      Thesis on _Bayesian Learning for Control in Multimodal Dynamical Systems_. Supervised by Prof. Arthur Richards & Prof. Carl Henrik Ek.
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://github.com/aidanscannell/phd-thesis'
+#  - area: MEng Mechanical Engineering
+#    institution: University of Bristol, UK
+#    date_start: 2012-09-01
+#    date_end: 2016-06-30
+#    summary: |
+#     First Class Honours
 
 work:
   - position: Research Associate
@@ -100,54 +99,14 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: HPC Clusters & Multi-GPU
+      - name: Python & PyTorch
         description: ''
-        percent: 90
-        icon: cpu-chip
+        percent: 95
+        icon: code-bracket
       - name: Machine Learning
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Reinforcement Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Generative Models
-        description: ''
-        percent: 100
-        icon: chart-bar
-  - name: Coding
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Python
-        description: ''
-        percent: 95
-        icon: python
-      - name: PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: JAX
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Docker
-        description: ''
-        percent: 90
-        icon: code-bracket
-      - name: Kubernetes
-        description: ''
-        percent: 90
-        icon: code-bracket
-      - name: Weights & Biases
-        description: ''
-        percent: 90
-        icon: document-arrow-up
-      - name: Hydra
-        description: ''
-        percent: 95
-        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -156,18 +115,14 @@ skills:
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Building Keyboards
+      - name: Building Mechanical Keyboards
         description: ''
         percent: 90
-        icon: hammer
+        icon: cpu-chip
       - name: Snowboarding
         description: ''
         percent: 70
         icon: book-open
-      - name: Cycling
-        description: ''
-        percent: 70
-        icon: person-cycling
 
 #languages:
 #  - name: English

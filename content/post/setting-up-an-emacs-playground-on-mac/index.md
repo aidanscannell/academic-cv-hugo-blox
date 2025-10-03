@@ -7,7 +7,7 @@ tags:
   - spacemacs
   - emacs
 draft: false
-#commentable: true
+commentable: true
 ---
 
 This is a short post detailing how I installed Emacs and configured an environment for maintaining multiple configurations (on my MacBook Pro).

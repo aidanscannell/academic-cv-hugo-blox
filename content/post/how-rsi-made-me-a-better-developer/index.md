@@ -7,7 +7,7 @@ tags:
   - egonomics
   - keyboards
   - emacs
-#commentable: true
+commentable: true
 ---
 
 <!-- I've wanted to write a blog post about my journey with RSI for a while now but I have been putting it off.  -->

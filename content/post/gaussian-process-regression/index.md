@@ -12,6 +12,7 @@ tags:
   - machine-learning
   - probabilistic-modelling
   - python
+commentable: true
 ---
 
 In this post I want to walk through Gaussian process regression; both the maths and a simple 1-dimensional python implementation.

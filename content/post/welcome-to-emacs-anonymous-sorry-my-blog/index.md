@@ -6,7 +6,7 @@ authors:
 tags: 
   - emacs
 draft: false
-#commentable = true
+commentable = true
 ---
 
 Hello and welcome to my blog.

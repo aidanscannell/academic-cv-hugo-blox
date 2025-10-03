@@ -15,7 +15,7 @@ links:
     url: resume.pdf
   - type: code
     url: https://github.com/aidanscannell/my-org-resume
-#commentable: true
+commentable: true
 ---
 
 Over the last few years I have been trying to find the best tools for managing my CV/resume.

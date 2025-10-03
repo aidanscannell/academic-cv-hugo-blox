@@ -1,7 +1,7 @@
 ---
 title: 1X World Model Challenge
 
-draft: false
+draft: true
 
 event: "Learning to See: Advancing Spatial Understanding for Embodied Intelligence"
 event_url: https://opendrivelab.com/iccv2025/workshop/

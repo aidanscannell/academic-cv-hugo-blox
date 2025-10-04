@@ -208,9 +208,9 @@ awards:
       Awarded a four-year PhD scholarship at University of Bristol with the FARSCOPE Center for Doctoral Training.
 ---
 Hello, I’m Aidan Scannell, a research associate working at the intersection of machine learning, sequential decision-making, and embodied AI.
-My research is driven by the goal of building autonomous agents that can learn and generalize behaviors across a wide range of tasks.
-I’m particularly interested in methods and architectures for learning world models, and in understanding how agents can leverage them to adapt efficiently and effectively to new challenges.
-Recent advances in generative AI have opened up exciting new directions for world modelling and decision-making, and I’m eager to explore how these developments can push the boundaries of what autonomous agents are capable of.
+My research is driven by the goal of building autonomous agents that can learn and generalize behaviours across a wide range of tasks.
+I’m particularly interested in methods and architectures for learning world models, and in understanding how agents can leverage them to solve new tasks efficiently.
+<!-- Recent advances in generative AI have opened up exciting new directions for world modelling and decision-making, and I’m eager to explore how these developments can push the boundaries of what autonomous agents are capable of. -->
 <!-- Hello, my name is Aidan Scannell and I am a postdoctoral researcher with interests at the intersection of machine learning, sequential decision-making, and robotics.  -->
 <!-- My research focuses on developing autonomous agents capable of learning behaviors to solve a wide range of tasks.  -->
 <!-- I am particularly interested methods and architectures for learning world models, and how agents can best leverage them to solve new challenges quickly and effectively. -->

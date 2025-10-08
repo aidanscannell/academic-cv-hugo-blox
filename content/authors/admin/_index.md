@@ -65,7 +65,11 @@ education:
     date_start: 2017-09-01
     date_end: 2022-06-30
     summary: |
-      Thesis on _Bayesian Learning for Control in Multimodal Dynamical Systems_. Supervised by Prof. Arthur Richards & Prof. Carl Henrik Ek.
+      Thesis on _Bayesian Learning for Control in Multimodal Dynamical Systems_. Supervised by Prof. Carl Henrik Ek & Prof. Arthur Richards.
+
+      During my PhD I developed methods for controlling quadcopters in uncertain environments by synergising methods from probabilistic machine learning, stochastic differential geometry and reinforcement learning.
+
+      First Class Honours during taught MRes year.
     button:
       text: 'Read Thesis'
       url: 'https://github.com/aidanscannell/phd-thesis'

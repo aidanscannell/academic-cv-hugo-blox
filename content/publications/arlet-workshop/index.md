@@ -4,7 +4,13 @@
 draft: false
 
 title: Quantized Representations Prevent Dimensional Collapse in Self-predictive RL
-authors: [Aidan Scannell, Kalle Kujanpää, Yi Zhao, Mohammadreza Nakhaei, Arno Solin, Joni Pajarinen]
+authors: 
+  - admin
+  - Kalle Kujanpää 
+  - Yi Zhao 
+  - Mohammadreza Nakhaei
+  - Arno Solin
+  - Joni Pajarinen
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"

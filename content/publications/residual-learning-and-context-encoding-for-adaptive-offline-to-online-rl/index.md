@@ -4,7 +4,10 @@
 draft: false
 
 title: Residual Learning and Context Encoding for Adaptive Offline-to-Online Reinforcement Learning
-authors: [Mohammadreza Nakhaei, Aidan Scannell, Joni Pajarinen]
+authors: 
+  - Mohammadreza Nakhaei
+  - admin
+  - Joni Pajarinen
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"

@@ -2,7 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "PhD Thesis: Bayesian Learning for Control in Multimodal Dynamical Systems"
-authors: ["Aidan Scannell"]
+authors:
+  - admin
 date: 2022-09-24T23:02:01+03:00
 doi: ""
 

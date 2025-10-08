@@ -4,7 +4,13 @@
 draft: false
 
 title: "Function-space Parameterization of Neural Networks for Sequential Learning"
-authors: [Aidan Scannell, Riccardo Mereu, Paul Chang, Ella Tamir, Joni Pajarinen, Arno Solin]
+authors: 
+  - admin
+  - Riccardo Mereu
+  - Paul Chang
+  - Ella Tamir
+  - Joni Pajarinen
+  - Arno Solin
 author_notes:
 - "Equal contribution"
 - "Equal contribution"

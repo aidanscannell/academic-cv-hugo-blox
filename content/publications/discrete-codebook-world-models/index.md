@@ -5,7 +5,7 @@ draft: false
 
 title: Discrete Codebook World Models for Continuous Control
 authors: 
-  - Aidan Scannell
+  - admin
   - Mohammadreza Nakhaei
   - Kalle Kujanpää
   - Yi Zhao

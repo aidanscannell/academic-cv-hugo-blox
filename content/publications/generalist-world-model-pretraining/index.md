@@ -4,7 +4,15 @@
 draft: false
 
 title: Generalist World Model Pre-Training for Efficient Reinforcement Learning
-authors: [Yi Zhao, Aidan Scannell, Cui Yuxin, Tianyu Cui, Le Chen, Arno Solin, Juho Kannala, Joni Pajarinen]
+authors:
+  - Yi Zhao
+  - admin
+  - Cui Yuxin
+  - Tianyu Cui
+  - Le Chen
+  - Arno Solin
+  - Juho Kannala
+  - Joni Pajarinen
 # author_notes:
 # date: 2023-04-27T21:01:09+03:00
 date: 2025-02-19

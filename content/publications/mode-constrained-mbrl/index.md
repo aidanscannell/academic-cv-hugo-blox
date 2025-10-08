@@ -3,7 +3,10 @@
 
 
 title: "Mode-constrained Model-based Reinforcement Learning via Gaussian Processes"
-authors: [Aidan Scannell, Carl Henrik Ek, Arthur Richards]
+authors: 
+  - admin
+  - Carl Henrik Ek
+  - Arthur Richards
 # date: 2023-04-27T21:01:09+03:00
 date: 2023-04-27
 doi: ""

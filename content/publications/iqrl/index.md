@@ -4,7 +4,13 @@
 draft: false
 
 title: iQRL - Implicitly Quantized Representations for Sample-efficient Reinforcement Learning
-authors: [Aidan Scannell, Kalle Kujanpää, Yi Zhao, Mohammadreza Nakhaei, Arno Solin, Joni Pajarinen]
+authors: 
+  - admin
+  - Kalle Kujanpää
+  - Yi Zhao
+  - Mohammadreza Nakhaei
+  - Arno Solin
+  - Joni Pajarinen
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"

@@ -4,7 +4,10 @@
 draft: false
 
 title: "Entropy Regularized Task Representation Learning for Offline Meta-Reinforcement Learning"
-authors: [Mohammadreza Nakhaei, Aidan Scannell, Joni Pajarinen]
+authors:
+  - Mohammadreza Nakhaei
+  - admin
+  - Joni Pajarinen
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"

@@ -3,7 +3,13 @@
 
 
 title: "Sparse Function-space Representation of Neural Networks"
-authors: [Aidan Scannell, Riccardo Mereu, Paul Chang, Ella Tamir, Joni Pajarinen, Arno Solin]
+authors:
+  - admin
+  - Riccardo Mereu
+  - Paul Chang
+  - Ella Tamir
+  - Joni Pajarinen
+  - Arno Solin
 author_notes:
 - "Equal contribution"
 - "Equal contribution"

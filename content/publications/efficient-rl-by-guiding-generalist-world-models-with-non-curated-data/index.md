@@ -4,7 +4,16 @@
 draft: false
 
 title: Efficient Reinforcement Learning by Guiding Generalist World Models with Non-Curated Data
-authors: [Yi Zhao, Aidan Scannell, Wenshuai Zhao, Cui Yuxin, Tianyu Cui, Le Chen, Arno Solin, Juho Kannala, Joni Pajarinen]
+authors:
+  - Yi Zhao
+  - admin
+  - Wenshuai Zhao
+  - Cui Yuxin
+  - Tianyu Cui
+  - Le Chen
+  - Arno Solin
+  - Juho Kannala
+  - Joni Pajarinen
 # author_notes:
 # date: 2023-04-27T21:01:09+03:00
 date: 2025-05-18

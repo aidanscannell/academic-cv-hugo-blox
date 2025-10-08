@@ -1,7 +1,7 @@
 ---
 title: "One Keyboard to Rule Them All - I Built a Dactyl Manuform"
 authors: 
-  - admind
+  - admin
 date: 2021-05-09
 tags: 
   - keyboards

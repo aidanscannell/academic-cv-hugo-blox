@@ -42,6 +42,10 @@ tags: ["world-models", "reinforcement-learning"]
 categories: []
 featured: true
 
+hugoblox:
+  ids:
+    doi: 10.48550/arXiv.2502.19544
+
 # Custom links
 links:
   - type: pdf

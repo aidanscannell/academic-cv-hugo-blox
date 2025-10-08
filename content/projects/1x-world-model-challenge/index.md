@@ -31,7 +31,7 @@ tags:
   - foundation-models
   - fine-tuning
 
-draft: true
+draft: false
 abstract: |
   World models are a powerful paradigm in AI and robotics, enabling agents to reason about the future by predicting visual observations or compact latent states.  The 1X World Model Challenge introduces an open-source benchmark of real-world humanoid interaction, with two complementary tracks: sampling, focused on forecasting future image frames, and compression, focused on predicting future discrete latent codes. For the sampling track, we adapt the video generation foundation model Wan-2.2 TI2V-5B to video-state-conditioned future frame prediction. We condition the video generation on robot states using adaLN-Zero, and further post-train the model using LoRA. For the compression track, we train a Spatio-Temporal Transformer model from scratch. Our models achieve 23.0 dB PSNR in the sampling task and a Top-500 CE of 6.6386 in the compression task, securing 1st place in both challenges.
 

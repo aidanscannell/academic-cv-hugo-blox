@@ -1,7 +1,7 @@
 ---
 title: "Generative World Modelling for Humanoids: 1X World Model Challenge"
 
-draft: true
+draft: false
 
 event: "Learning to See: Advancing Spatial Understanding for Embodied Intelligence"
 event_url: https://opendrivelab.com/iccv2025/workshop/

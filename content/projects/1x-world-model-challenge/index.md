@@ -52,7 +52,7 @@ At scale, these methods underpin powerful foundation models capable of producing
 
 #### Overview of the 1X World Model Challenges
 
-The 1X World Model Challenge evaluates predictive performance on two tracks: Sampling and Compression.
+The 1X World Model Challenge (part of the [Autonomous Grand Challenge 2025](https://opendrivelab.com/challenge2025/)) evaluates predictive performance on two tracks: Sampling and Compression.
 These challenges capture core problems when using world models in robotics.
 The figure below illustrates the two challenges:
 {{< figure src="featured.png" caption="Overview of the 1X World Model Challenges.">}}

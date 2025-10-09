@@ -162,7 +162,7 @@ awards:
     summary: |
       Awarded a four-year PhD scholarship at University of Bristol with the FARSCOPE Center for Doctoral Training.
 ---
-Hello, I’m Aidan Scannell, a research associate working at the intersection of machine learning, sequential decision-making, and embodied AI.
+Hello, I’m Aidan, a researcher working at the intersection of machine learning, sequential decision-making, and embodied AI.
 My research is driven by the goal of building autonomous agents that can learn and generalize behaviours across a wide range of tasks.
 I’m particularly interested in methods and architectures for learning world models, and in understanding how agents can leverage them to solve new tasks efficiently.
 <!-- Hello, my name is Aidan Scannell and I am a postdoctoral researcher with interests at the intersection of machine learning, sequential decision-making, and robotics.  -->

@@ -14,7 +14,16 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🌴 
+  #icon: 🚀
+#☕️ (Coffee): On a break, relaxed, or working at a slow pace.
+#🚀 (Rocket): Actively working, launching something, or in "high gear."
+#📚 (Books): Studying, reading, or focused on academic work.
+#💻 (Laptop): Coding, working remotely, or available online.
+#🌴 (Palm Tree): On vacation or away from work.
+#😴 (Sleeping Face): Offline, not available, or taking time off.
+#🎯 (Bullseye): Focused on goals or a specific project.
+#⚡️ (Zap): Busy, energetic, or in a sprint.
 
 # Is this the primary user of the site?
 superuser: true

@@ -42,11 +42,11 @@ image:
   caption: 1X World Model Challenge Overview
   focal_point: Right
 
-#links:
-#  - type: code
-#    url: 
-#  - type: slides
-#    url: 
+links:
+  - type: Google Slides
+    url: https://docs.google.com/presentation/d/15l0HlM-z4KpyQH7i7Y13xsM0k_HQ-z1KVAOtFlnOf4w/edit?usp=sharing
+  - type: slides
+    url: slides.pdf
 #  - type: video
 #    url: 
 

@@ -40,11 +40,11 @@ image:
   caption: "Architecture: Spatio-temporal Transformer World model"
   focal_point: Right
 
-#links:
+links:
 #  - type: code
 #    url: 
-#  - type: slides
-#    url: 
+  - type: slides
+    url: slides.pptx
 #  - type: video
 #    url: 
 

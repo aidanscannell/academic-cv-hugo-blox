@@ -3,7 +3,7 @@
 
 draft: false
 
-title: Efficient Reinforcement Learning by Guiding Generalist World Models with Non-Curated Data
+title: Efficient Reinforcement Learning by Guiding World Models with Non-Curated Data
 authors:
   - Yi Zhao
   - admin
@@ -16,7 +16,7 @@ authors:
   - Joni Pajarinen
 # author_notes:
 # date: 2023-04-27T21:01:09+03:00
-date: 2025-05-18
+date: 2026-01-25
 doi: 
 
 # Schedule page publish date (NOT publication's date).
@@ -26,10 +26,11 @@ publishDate: 2025-05-18T16:01:09+03:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv preprint arXiv:2502.19544v2"
+#publication: "arXiv preprint arXiv:2502.19544v2"
+publication: "In The Fourteenth International Conference on Learning Representations (ICLR)"
 #publication_short: ""
 
 

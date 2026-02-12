@@ -4,6 +4,6 @@
  "cite"
  (lambda ()
    (LaTeX-add-bibitems
-    "ZhaoEfficient2025"))
+    "ZhaoEfficient2026"))
  '(or :bibtex :latex))
 

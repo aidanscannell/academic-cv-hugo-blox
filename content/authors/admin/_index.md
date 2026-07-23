@@ -27,7 +27,7 @@ role: Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Toyota Research Scientist
+  - name: Toyota Research Institute
     url: "https://www.tri.global"
 
 

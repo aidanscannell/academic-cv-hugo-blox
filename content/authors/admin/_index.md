@@ -23,21 +23,19 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Associate
+role: Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Edinburgh
-    url: "https://informatics.ed.ac.uk/"
-  - name: Bayesian and Neural Systems Group
-    url: "https://www.bayeswatch.com/"
+  - name: Toyota Research Scientist
+    url: "https://www.tri.global"
 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:aidan.scannell@ed.ac.uk'
+    url: 'mailto:aidan.scannell@tri.global'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/scannell_aidan
@@ -82,13 +80,21 @@ education:
      First Class Honours
 
 work:
+  - position: Research Scientist
+    company_name: Toyota Research Institute
+    company_url: https://www.tri.global/
+    company_logo: ''
+    date_start: 2026-07-20
+    date_end: ''
+    summary: |
+      World models | policy learning | policy evaluation
   - position: Research Associate
     company_name: University of Edinburgh
     company_url: 'https://informatics.ed.ac.uk/'
     company_logo: '/uploads/uoe-logo.png'
     date_start: 2025-01-01
-    date_end: ''
-    summary: |2-
+    date_end: 2026-07-10
+    summary: |
       Investigating methods and architectures for learning generative world models for sequential decision-making.
   - position: Postdoctoral Researcher
     company_name: Aalto University

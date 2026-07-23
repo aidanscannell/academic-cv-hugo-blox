@@ -32,21 +32,19 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Associate
+role: Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Edinburgh
-    url: "https://informatics.ed.ac.uk/"
-  - name: Bayesian and Neural Systems Group
-    url: "https://www.bayeswatch.com/"
+  - name: Toyota Research Scientist
+    url: "https://www.tri.global"
 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:aidan.scannell@ed.ac.uk'
+    url: 'mailto:aidan.scannell@tri.global'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/scannell_aidan
@@ -86,12 +84,20 @@ interests:
 #     First Class Honours
 
 work:
+  - position: Research Scientist
+    company_name: Toyota Research Institute
+    company_url: https://www.tri.global/
+    company_logo: ''
+    date_start: 2026-07-20
+    date_end: ''
+    summary: |
+      World models | policy learning | policy evaluation
   - position: Research Associate
     company_name: University of Edinburgh
     company_url: 'https://informatics.ed.ac.uk/'
     company_logo: '/uploads/uoe-logo.png'
     date_start: 2025-01-01
-    date_end: ''
+    date_end: 2026-07-10
     summary: |2-
       Investigating methods and architectures for learning generative world models for sequential decision-making.
   - position: Postdoctoral Researcher
@@ -181,9 +187,11 @@ I’m particularly interested in methods and architectures for learning world mo
 
 
 ### Bio:
-I am a Research Associate at the University of Edinburgh in [The Bayesian and Neural Systems Group](https://www.bayeswatch.com/) working with Amos Storkey and Peter Bell.
-Previously I was a [Finnish Center for Artificial Intelligence](https://fcai.fi/) postdoctoral researcher 
-at [Aalto University](https://www.aalto.fi/en) 
+I’m a Research Scientist at TRI working on world models, and how they can be used for policy learning and evaluation. 
+Previously, I was a Research Associate at the University of Edinburgh in [The Bayesian and Neural Systems Group](https://www.bayeswatch.com/) working with Amos Storkey and Peter Bell.
+Before that, I was a [Finnish Center for Artificial Intelligence](https://fcai.fi/) postdoctoral researcher 
+at [Aalto University](https://www.aalto.fi/en),
+where I led FCAI's Long Term Decision-Making team, whilst sitting
 in Joni Pajarinen's [Robot Learning Lab](https://rl.aalto.fi/)
 and Arno Solin's [Machine Learning Research Group](https://users.aalto.fi/~asolin/group/).
 I obtained my PhD from the [University of Bristol](https://www.bristol.ac.uk/) under the supervision of Arthur Richards and Carl Henrik Ek.
